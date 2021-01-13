@@ -1,0 +1,635 @@
+<html>
+<head>
+  <link href="static/assets/img/logo-1.png" rel="icon">
+  <link href="static/assets/img/logo-1.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="static/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="static/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="static/assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/aos/aos.css" rel="stylesheet">
+
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+.popup-btn{
+	position: absolute!important;
+	top: 55%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.main-btn-rect,
+.main-btn-circle{
+	position: relative;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	color: #FFFFF0;
+	background-color: rgb(252, 79, 79);
+	text-transform: uppercase;
+	font-size: 25px;
+	letter-spacing: 1px;	
+	outline: none;
+	cursor: pointer;
+	z-index: 100;
+}
+.main-btn-rect {
+	padding: 10px 80px;
+	line-height: 30px;
+}
+.main-btn-rect:before, 
+.main-btn-rect:after{
+  position: absolute;
+  content: '';
+  top:0;
+  width: 0%;
+  height: 100%;
+  background-color: rgba(255, 255, 240, 0.2);
+  -webkit-transition: width 0.3s;
+  -o-transition: width 0.3s;
+  transition: width 0.3s;
+}
+.main-btn-rect:before {
+  left: 0;
+}
+.main-btn-rect:after {
+  right: 0;
+}
+.main-btn-rect:hover:before, 
+.main-btn-rect:hover:after{
+  width: 50%;
+}
+.main-btn-circle{
+	height: 40px;
+	width: 40px;
+	-webkit-border-radius: 50%;
+	border-radius: 100%;
+	line-height: 40px;
+  -webkit-transition: box-shadow 0.3s;
+  -o-transition: box-shadow 0.3s;
+  transition: box-shadow 0.3s;
+}
+.main-btn-circle:hover{   
+  -webkit-box-shadow: inset 2px 1px 0px 20px rgba(255, 255, 240, 0.2);
+  -moz-box-shadow: inset 2px 1px 0px 20px rgba(255, 255, 240, 0.2);
+  box-shadow: inset 2px 1px 0px 20px rgba(255, 255, 240, 0.2);
+}
+.popup{
+  position: fixed;
+	top: 100%;
+  width: 100%;
+  height: 100%;
+  z-index: 10001;
+}
+.popup.active{
+  top:0;
+  background-color: rgba(3, 3, 3, 0.98); 
+  transition: background-color .6s ,opacity .6s;
+}
+.popup .main-btn-rect{
+  padding: 10px 100px;
+}
+.popup .popup-content{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  max-height: 568px;
+  min-width: 320px;
+  margin-top: 150px;
+  padding: 25px;
+  background-color: #FFFFF0;
+  color: #070000;
+  -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  -ms-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -o-transform: translateX(-50%) translateY(-50%);
+  transition: margin .6s;
+  -webkit-transition: margin .6s;
+  -moz-transition: margin .6s;
+  -o-transition: margin .6s;
+}
+.popup.active .popup-content{
+  margin-top: 0px;
+}
+.popup-content h6{
+  display: table;
+  font-size: 16px;
+  text-align: center;
+  margin: 10px auto;
+  font-family: 'Roboto',sans-serif;
+  text-transform: uppercase;
+  font-weight: 100;  
+}
+.form-group{
+	position: relative;
+	width: 90%;
+	margin: 0px auto;
+}
+form#send input, form#send textarea{
+	position: relative;
+	margin-bottom: 32px;
+	width: 100%;
+	height: 29px;
+	font-family: 'RobotoLight', sans-serif;
+	text-indent: 20px;
+  background-color: transparent;
+	outline: 0;
+	border: none;
+	border-bottom: 1px solid #070000;
+	-webkit-transition: border 0.6s;
+	-o-transition: border 0.6s;
+	transition: border 0.6s;
+}
+form#send input:focus,
+form#send textarea:focus{
+	border-bottom: 1px solid rgb(63, 173, 168); 
+}
+form#send label{
+	position: absolute;
+	top: 0;
+	line-height: 28px;
+	-webkit-transition: color .5s;
+	-o-transition: color .5s;
+	transition: color .5s;
+}
+form#send input:focus + label,
+form#send textarea:focus + label{
+  color: rgb(63, 173, 168);
+}
+form#send .txt{
+	line-height: 22px;
+	left: 2px;
+}
+form#send .main-btn-rect {
+	position: relative;
+	display: block;
+	padding: 12px 80px;
+	margin: 0px auto;
+	font-size: 14px;
+}
+form#send .main-btn-rect i {
+	margin-right: 5px;
+}
+.popup .fade-out{
+  position: absolute;
+  top: -20px;
+  right: -20px;
+  text-align: center;
+  font-size: 15px;
+}
+.share-wrap{
+	position: absolute;
+  display: inline-table;
+	top: 67%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  padding: 15px;
+  text-align: center;
+}
+.share-btn{
+  color: #FFFFF0;
+  padding: 7px 25px;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: 100;
+  font-size: 14px;
+  font-family:'Lobster', sans-serif;
+  background-color: rgba(63, 173, 168, .8);
+  text-transform: uppercase;
+  border-radius: 5px;
+  transition: background-color .5s;
+  -webkit-transition: background-color .5s;
+  -moz-transition: background-color .5s;
+  -o-transition: background-color .5s;
+}
+.share-btn:hover{
+  color: #FFFFF0;
+  text-decoration: none;
+  background-color: rgba(63, 173, 168, 1.0);
+}
+
+.resp-sharing-button__link,
+.resp-sharing-button__icon {
+  display: inline-block
+}
+.resp-sharing-button__link {
+  text-decoration: none;
+  color: #fff;
+  margin: 2px;
+}
+.resp-sharing-button {
+  border-radius: 5px;
+  transition: 25ms ease-out;
+  padding: 6px 9px;
+  transition: background-color .5s;
+  -webkit-transition: background-color .5s;
+  -moz-transition: background-color .5s;
+  -o-transition: background-color .5s;
+}
+.resp-sharing-button__icon svg {
+  width: 1em;
+  height: 1em;
+  margin-right: 0.4em;
+  vertical-align: top
+}
+.resp-sharing-button--small svg {
+  margin: 0;
+  vertical-align: middle
+}
+.resp-sharing-button__icon,
+.resp-sharing-button__icon--solid,
+.resp-sharing-button__icon--solidcircle {
+  fill: #fff;
+  stroke: none
+}
+.resp-sharing-button--facebook {
+  background-color: #3b5998;
+  border-color: #3b5998;
+}
+.resp-sharing-button--facebook:hover,
+.resp-sharing-button--facebook:active {
+  background-color: #2d4373;
+  border-color: #2d4373;
+}
+.resp-sharing-button--twitter {
+  background-color: #55acee;
+  border-color: #55acee;
+}
+.resp-sharing-button--twitter:hover,
+.resp-sharing-button--twitter:active {
+  background-color: #2795e9;
+  border-color: #2795e9;
+}
+.resp-sharing-button--linkedin {
+  background-color: #0077b5;
+  border-color: #0077b5;
+}
+.resp-sharing-button--linkedin:hover,
+.resp-sharing-button--linkedin:active {
+  background-color: #046293;
+  border-color: #046293;
+}
+@media only screen and (max-width: 768px){
+  h1 {font-size: 25px;}
+  h2 {font-size: 14px;}
+  form#send .main-btn-rect {padding: 7px 60px; font-size: 14px;}
+  .popup-btn{padding: 7px 60px; font-size: 14px;}
+}
+html,
+body {
+    height: 100%;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+  height: 100%;
+  background: #000;
+}
+
+.carousel-caption{padding-bottom:80px;}
+
+h2{font-size: 60px;}
+p{padding:10px}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    opacity:0.6;
+}
+
+
+
+
+/**
+ * Button
+ */
+.btn-transparent {
+  background: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+}
+.btn-transparent:hover {
+  background-color: #fff;
+}
+
+.btn-rounded {
+  border-radius: 70px;
+}
+
+.btn-large {
+  padding: 11px 45px;
+  font-size: 18px;
+}
+
+/**
+ * Change animation duration
+ */
+.animated {
+  -webkit-animation-duration: 1.5s;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fadeInRight {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(100px, 0, 0);
+    transform: translate3d(100px, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(100px, 0, 0);
+    transform: translate3d(100px, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+.fadeInRight {
+  -webkit-animation-name: fadeInRight;
+  animation-name: fadeInRight;
+}
+<!--Table book-->
+.table-number {
+  font-size: 50px;
+}
+
+.table {
+  line-height: 60px;
+}
+
+.table button {
+  color: black;
+  background: transparent;
+  border: 0px solid black;
+  border-radius:2px;
+  font-size: 20px;
+  width: 30px;
+  height: 30px;
+/*   box-shadow: 0 2px 1em grey; */
+  /* box-shadow: 0 2px 1em grey; */
+}
+
+.table button:active {
+  transform: translate(0px, 2px);
+  -webkit-transform: translate(0px, 2px);
+  -moz-transform: translate(0px, 2px);
+  -ms-transform: translate(0px, 2px);
+box-shadow: 0px 1px 0px 0px;
+}
+
+button:disabled {
+    opacity: 0.65;
+}
+
+.minus {
+  float: left;
+}
+
+.plus {
+  float: right;
+}
+
+.date-title {
+  margin-top: 30px;
+}
+
+.date-picker {
+  width:100%;
+  position: relative;
+  margin: auto;
+}
+
+.date-picker>input {
+  border: none;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+}
+
+.date-picker>input[type="date"] {
+  top: 0;
+  left: -60px;
+}
+
+.date-picker>input[type="time"] {
+  top: 0px;
+  left: 160px;
+}
+
+.submit-btn {
+  margin: 20px 0 20px 0;
+}
+
+.submit-btn button {
+  color: black;
+  background-color: transparent;
+  border: 1px solid black;
+  border-radius:2px;
+  width: 200px;
+  height: 50px;
+/*   box-shadow: 0 2px 1em grey; */
+  font-size:20px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.submit-btn button:active {
+  transform: translate(0px, 2px);
+  -webkit-transform: translate(0px, 2px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+button, input {
+  font-family:Marmelad;
+}
+.credit{
+  position:relative;
+  bottom:0px;
+  left:5px;
+  margin:0px;
+  width:50%;
+}
+</style>
+</head>
+<body>
+
+  
+  <!-- Full Page Image Background Carousel Header -->
+  <div id="myCarousel" class="carousel slide">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for Slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <!-- Set the first background image using inline CSS below. -->
+                <div class="fill" style="background-image:url('static/assets/img/table-2.jpg');"></div>
+                <div class="carousel-caption">
+                     <h2 class="animated fadeInLeft">Cisco- Cafetaria Management System</h2>
+                     
+                     <p class="animated fadeInUp"><button  type="button" class="btn btn-transparent btn-rounded btn-large popup-btn" data-popup="popup-reg">Book Table</button></p>
+                </div>
+            </div>
+           <!-- <div class="item">
+                 Set the second background image using inline CSS below. class="btn btn-transparent btn-rounded btn-large"
+                <div class="fill" style="background-image:url('static/assets/img/table-2.jpg');"></div>
+                <div class="carousel-caption">
+                     <h2 class="animated fadeInDown">Caption Animation</h2>
+                     <p class="animated fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+                     <p class="animated fadeInUp"><a href="#" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
+                </div>
+            </div>
+            <div class="item">
+                 Set the third background image using inline CSS below. 
+                <div class="fill" style="background-image:url('static/assets/img/table-1.jpg');"></div>
+                <div class="carousel-caption">
+                     <h2 class="animated fadeInRight">Caption Animation</h2>
+                     <p class="animated fadeInRight">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+                     <p class="animated fadeInRight"><a href="#" class="btn btn-transparent btn-rounded btn-large">Learn More</a></p>
+                </div>
+            </div>-->
+        </div>
+        <div id="popup-reg" class="popup">
+            <div class="popup-content">
+              <div class="event-header">
+                <h6>Don't be shy, say hi!</h6>
+              </div>
+              <div class="inner">
+                
+                <div class="product-title">
+                  <p><strong>The Jerry Club</strong></p>
+                </div>
+                <div class="product-text">
+                  <p>Table for</p>
+                </div>
+                <div class="table-choice">
+                  <div class="table minus">
+                    <button><strong>-</strong></button>
+                  </div>
+                  <div class="table plus">
+                   <button><strong>+</strong></button>
+                  </div>
+                  <div class="table-number">
+                    <strong></strong>
+                </div>
+                  
+                </div>
+                 <div class="date-title">
+                   <p>pick a date &amp; time<p>
+                </div>
+                <div class="date-picker">test
+                  <input type="date" placeholder="mm/dd/yyyy" style="text-align:center;">
+                  <input type="time" placeholder="00:00"/>
+                </div>
+                <div class="submit-btn">
+                  <button type="submit">Confirm</button>
+                </div>
+              </div>
+              <span class="fade-out main-btn-circle">╳</span>
+            </div>
+          </div>
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+
+    </div>
+
+
+
+
+
+
+</body>
+<script src="static/assets/vendor/jquery/jquery.min.js"></script>
+<script src="static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="static/assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+<script src="static/assets/vendor/php-email-form/validate.js"></script>
+<script src="static/assets/vendor/venobox/venobox.min.js"></script>
+<script src="static/assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+<script src="static/assets/vendor/counterup/counterup.min.js"></script>
+<script src="static/assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+<script src="static/assets/vendor/aos/aos.js"></script>
+
+<!-- Template Main JS File -->
+<script src="static/assets/js/main.js"></script>    
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.popup-btn').click(function(){ 
+    var popupBlock = $('#'+$(this).data('popup'));
+    popupBlock.addClass('active')
+      .find('.fade-out').click(function(){
+        popupBlock.css('opacity','0').find('.popup-content').css('margin-top','350px');        
+        setTimeout(function(){
+          $('.popup').removeClass('active');
+          popupBlock.css('opacity','').find('.popup-content').css('margin-top','');
+        }, 600);
+      });
+ });
+});
+
+$(document).ready(function(){
+  var number = 2;
+  $(".table-number>strong").html(number);
+});
+
+$(".table.plus").click(function(){
+  number = $(".table-number>strong").text();
+  number = parseInt(number) + 1;
+  $(".table-number>strong").html(number);
+})
+
+$(".table.minus").click(function(){
+  number = $(".table-number>strong").text();
+  number = parseInt(number) - 1;
+  /* if(number == 2){
+      $(".table.minus").css("button:disabled");
+  } */
+  if(number > 1){
+      $(".table-number>strong").html(number);
+  }
+})
+</script>
+
+</html>
