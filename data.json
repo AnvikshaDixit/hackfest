@@ -1,0 +1,2618 @@
+[
+    {
+        "_id": "5ff718aeadc0cc7754b76f6f",
+        "data": {
+            "apMac": "e0:cb:bc:50:33:14",
+            "apFloors": [
+                "43A Cavendish Road"
+            ],
+            "apTags": [
+                "",
+                "Broadcast",
+                "repeater",
+                ""
+            ],
+            "observations": [
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404679570574,
+                        "lng": -0.20685326388465342,
+                        "unc": 44.8873972917561,
+                        "x": [
+                            12.394639697322184
+                        ],
+                        "y": [
+                            24.111370838146076
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:27Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:b9:ce:12",
+                    "seenEpoch": 1610029227,
+                    "rssi": 13,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544121119480344,
+                        "lng": -0.206955224275589,
+                        "unc": 49,
+                        "x": [
+                            11.543416595349216
+                        ],
+                        "y": [
+                            34.935417476607974
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:32Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "8c:85:90:28:a8:34",
+                    "seenEpoch": 1610029172,
+                    "rssi": 12,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544121097876626,
+                        "lng": -0.20695519517113325,
+                        "unc": 45.57618107413758,
+                        "x": [
+                            11.5436342408784
+                        ],
+                        "y": [
+                            34.932292861992906
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:01Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "ec:5c:68:81:cd:bd",
+                    "seenEpoch": 1610029201,
+                    "rssi": 13,
+                    "ipv6": null,
+                    "manufacturer": "CHONGQING FUGUI..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544012723806865,
+                        "lng": -0.20682233314460063,
+                        "unc": 27.38466780918688,
+                        "x": [
+                            11.900514666474612
+                        ],
+                        "y": [
+                            19.791233624710987
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:11Z",
+                    "ssid": null,
+                    "os": "OEMed wireless router",
+                    "clientMac": "c8:ff:77:70:97:30",
+                    "seenEpoch": 1610029151,
+                    "rssi": 5,
+                    "ipv6": null,
+                    "manufacturer": "Dyson"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544102908817564,
+                        "lng": -0.2068733685044606,
+                        "unc": 47.050747379112735,
+                        "x": [
+                            14.933164991703027
+                        ],
+                        "y": [
+                            29.97435482515163
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:46Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "28:3a:4d:60:fc:49",
+                    "seenEpoch": 1610029186,
+                    "rssi": 3,
+                    "ipv6": null,
+                    "manufacturer": "Cloud Network Technology..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544121119480344,
+                        "lng": -0.206955224275589,
+                        "unc": 49,
+                        "x": [
+                            11.543416595349216
+                        ],
+                        "y": [
+                            34.935417476607974
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:10Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "f4:03:2a:68:a5:05",
+                    "seenEpoch": 1610029150,
+                    "rssi": 5,
+                    "ipv6": null,
+                    "manufacturer": "Amazon Technologies"
+                },
+                {
+                    "ipv4": "/172.17.0.5",
+                    "location": {
+                        "lat": 51.54408294955646,
+                        "lng": -0.20686551325860592,
+                        "unc": 32.13891274300494,
+                        "x": [
+                            14.069602345912829
+                        ],
+                        "y": [
+                            27.86032439327366
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:29Z",
+                    "ssid": "43A",
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:b6:81:ce",
+                    "seenEpoch": 1610029229,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5441163889339,
+                        "lng": -0.2069339607701579,
+                        "unc": 22.652729044457082,
+                        "x": [
+                            12.423964569411275
+                        ],
+                        "y": [
+                            33.64669242785781
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:27Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "80:91:33:b0:a2:21",
+                    "seenEpoch": 1610029227,
+                    "rssi": 27,
+                    "ipv6": null,
+                    "manufacturer": "AzureWave Technology"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544121119480344,
+                        "lng": -0.206955224275589,
+                        "unc": 35.12182221160769,
+                        "x": [
+                            11.543416595349216
+                        ],
+                        "y": [
+                            34.935417476607974
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:41Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "64:80:99:d5:c8:c5",
+                    "seenEpoch": 1610029181,
+                    "rssi": 41,
+                    "ipv6": null,
+                    "manufacturer": "Intel"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544121119480344,
+                        "lng": -0.206955224275589,
+                        "unc": 49,
+                        "x": [
+                            11.543416595349216
+                        ],
+                        "y": [
+                            34.935417476607974
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:01Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "68:b9:d3:12:2e:56",
+                    "seenEpoch": 1610029201,
+                    "rssi": 18,
+                    "ipv6": null,
+                    "manufacturer": "Shenzhen Trolink..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411591282504,
+                        "lng": -0.2069318206910964,
+                        "unc": 46.42570190503724,
+                        "x": [
+                            12.512587881947471
+                        ],
+                        "y": [
+                            33.51698787400267
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:46Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "94:b0:1f:80:91:83",
+                    "seenEpoch": 1610029186,
+                    "rssi": 9,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544063220881554,
+                        "lng": -0.20687168445340376,
+                        "unc": 43.38786783402094,
+                        "x": [
+                            12.436534160704126
+                        ],
+                        "y": [
+                            26.336483156971592
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:03Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "e8:6f:38:76:59:d3",
+                    "seenEpoch": 1610029203,
+                    "rssi": 6,
+                    "ipv6": null,
+                    "manufacturer": "CHONGQING FUGUI..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544047485924196,
+                        "lng": -0.20685347243787078,
+                        "unc": 28.814109679414663,
+                        "x": [
+                            12.428031867380339
+                        ],
+                        "y": [
+                            24.181915465041495
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:51Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:90:ac:93",
+                    "seenEpoch": 1610029191,
+                    "rssi": 19,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404535722587,
+                        "lng": -0.2068531576643693,
+                        "unc": 43.03367895915393,
+                        "x": [
+                            12.30667713686565
+                        ],
+                        "y": [
+                            23.977682713246118
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:43Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "b8:31:b5:86:f7:78",
+                    "seenEpoch": 1610029183,
+                    "rssi": 31,
+                    "ipv6": null,
+                    "manufacturer": "Microsoft"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544121119480344,
+                        "lng": -0.206955224275589,
+                        "unc": 43.766092696345915,
+                        "x": [
+                            11.543416595349216
+                        ],
+                        "y": [
+                            34.935417476607974
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:26Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "8c:b8:4a:72:3a:3d",
+                    "seenEpoch": 1610029226,
+                    "rssi": 18,
+                    "ipv6": null,
+                    "manufacturer": "Samsung(THAILAND)"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544055416073014,
+                        "lng": -0.20683998957699146,
+                        "unc": 17.074324629674244,
+                        "x": [
+                            13.699865156763623
+                        ],
+                        "y": [
+                            24.347764847607476
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:27Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "34:7e:5c:99:31:b9",
+                    "seenEpoch": 1610029227,
+                    "rssi": 27,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411143600258,
+                        "lng": -0.2069116976588532,
+                        "unc": 44.89994469487706,
+                        "x": [
+                            13.345907454965168
+                        ],
+                        "y": [
+                            32.29738390031339
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:05Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "24:f6:77:03:d2:1e",
+                    "seenEpoch": 1610029205,
+                    "rssi": 10,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411393201587,
+                        "lng": -0.20694554135172893,
+                        "unc": 29.145287765702182,
+                        "x": [
+                            11.615826108800086
+                        ],
+                        "y": [
+                            33.89587173099644
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:08Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "48:a6:b8:d6:53:34",
+                    "seenEpoch": 1610029208,
+                    "rssi": 35,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544121119480344,
+                        "lng": -0.206955224275589,
+                        "unc": 49,
+                        "x": [
+                            11.543416595349216
+                        ],
+                        "y": [
+                            34.935417476607974
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:29Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "9c:31:c3:07:47:7a",
+                    "seenEpoch": 1610029169,
+                    "rssi": 7,
+                    "ipv6": null,
+                    "manufacturer": "BSkyB"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544045826221435,
+                        "lng": -0.20685347686443833,
+                        "unc": 36.33836857093172,
+                        "x": [
+                            12.319438938371622
+                        ],
+                        "y": [
+                            24.032822806620324
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:20Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:91:6d:7f",
+                    "seenEpoch": 1610029220,
+                    "rssi": 19,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544057526583366,
+                        "lng": -0.20686730996615665,
+                        "unc": 43.649687137847685,
+                        "x": [
+                            12.309494182395749
+                        ],
+                        "y": [
+                            25.646745428663586
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:25Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "34:7e:5c:31:a1:a2",
+                    "seenEpoch": 1610029165,
+                    "rssi": 23,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54410946501268,
+                        "lng": -0.2068851371349183,
+                        "unc": 8.907725708281776,
+                        "x": [
+                            14.702883840355351
+                        ],
+                        "y": [
+                            31.041800960063895
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:29Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "48:a6:b8:d6:53:35",
+                    "seenEpoch": 1610029229,
+                    "rssi": 42,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544118770364484,
+                        "lng": -0.2069500615989739,
+                        "unc": 20.708916481361992,
+                        "x": [
+                            11.678836758303257
+                        ],
+                        "y": [
+                            34.51454363991647
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:29Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b6:81:cf",
+                    "seenEpoch": 1610029229,
+                    "rssi": 60,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544107536383954,
+                        "lng": -0.2068941691211137,
+                        "unc": 20.413567914995102,
+                        "x": [
+                            14.07178581243645
+                        ],
+                        "y": [
+                            31.23502540425627
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:09Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "48:5f:99:75:be:33",
+                    "seenEpoch": 1610029149,
+                    "rssi": 24,
+                    "ipv6": null,
+                    "manufacturer": "Cloud Network Technology..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5440137836984,
+                        "lng": -0.20682249509059147,
+                        "unc": 27.4763186288061,
+                        "x": [
+                            11.96064602005777
+                        ],
+                        "y": [
+                            19.893134182284932
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:28Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "34:7e:5c:31:a1:a3",
+                    "seenEpoch": 1610029228,
+                    "rssi": 13,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54405660684607,
+                        "lng": -0.20685438481407914,
+                        "unc": 33.59089412354639,
+                        "x": [
+                            12.972412232915115
+                        ],
+                        "y": [
+                            25.039285028824324
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:26Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:8b:48:b2",
+                    "seenEpoch": 1610029226,
+                    "rssi": 8,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54400591335539,
+                        "lng": -0.20682038781737333,
+                        "unc": 24.358470024469117,
+                        "x": [
+                            11.564739042509979
+                        ],
+                        "y": [
+                            19.09972984895813
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:27Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b9:ce:13",
+                    "seenEpoch": 1610029227,
+                    "rssi": 12,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": "/172.17.4.52",
+                    "location": {
+                        "lat": 51.54404789801087,
+                        "lng": -0.20685272213231087,
+                        "unc": 40.993374237070505,
+                        "x": [
+                            12.496900635260888
+                        ],
+                        "y": [
+                            24.18851704485656
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:29Z",
+                    "ssid": "43A",
+                    "os": null,
+                    "clientMac": "f8:ff:c2:04:fb:84",
+                    "seenEpoch": 1610029229,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                }
+            ]
+        },
+        "__v": 0
+    },
+    {
+        "_id": "5ff718cfadc0cc7754b76f70",
+        "data": {
+            "apMac": "98:18:88:77:4e:72",
+            "apFloors": [
+                "43A Cavendish Road"
+            ],
+            "apTags": [
+                "",
+                "recently-added",
+                ""
+            ],
+            "observations": [
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5440527274343,
+                        "lng": -0.2067641168832779,
+                        "unc": 49,
+                        "x": [
+                            17.768231841291982
+                        ],
+                        "y": [
+                            21.02564403131798
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:30Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "88:e9:fe:57:68:65",
+                    "seenEpoch": 1610029230,
+                    "rssi": 19,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5440527274343,
+                        "lng": -0.2067641168832779,
+                        "unc": 0.08441728766877274,
+                        "x": [
+                            17.768231841291982
+                        ],
+                        "y": [
+                            21.02564403131798
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:28Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:8b:48:b2",
+                    "seenEpoch": 1610029228,
+                    "rssi": 53,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5440527274343,
+                        "lng": -0.2067641168832779,
+                        "unc": 49,
+                        "x": [
+                            17.768231841291982
+                        ],
+                        "y": [
+                            21.02564403131798
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:27Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "ec:5c:68:81:cd:bd",
+                    "seenEpoch": 1610029227,
+                    "rssi": 10,
+                    "ipv6": null,
+                    "manufacturer": "CHONGQING FUGUI..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5440527274343,
+                        "lng": -0.2067641168832779,
+                        "unc": 49,
+                        "x": [
+                            17.768231841291982
+                        ],
+                        "y": [
+                            21.02564403131798
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:46Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:fe:29:b0",
+                    "seenEpoch": 1610029186,
+                    "rssi": 11,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                }
+            ]
+        },
+        "__v": 0
+    },
+    {
+        "_id": "5ff718cfadc0cc7754b76f71",
+        "data": {
+            "apMac": "e0:55:3d:ee:3c:86",
+            "apFloors": [
+                "43A Cavendish Road"
+            ],
+            "apTags": [
+                "",
+                "broadcast",
+                "recently-added",
+                "run-dark",
+                ""
+            ],
+            "observations": [
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544008479858306,
+                        "lng": -0.2068190682194313,
+                        "unc": 21.848494715328094,
+                        "x": [
+                            11.806090952496717
+                        ],
+                        "y": [
+                            19.276985607031456
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:02Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b9:ce:13",
+                    "seenEpoch": 1610029262,
+                    "rssi": 60,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544055561524935,
+                        "lng": -0.20685361107854305,
+                        "unc": 35.133721435853374,
+                        "x": [
+                            12.947452013124236
+                        ],
+                        "y": [
+                            24.913857270598534
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:27Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:8b:48:b2",
+                    "seenEpoch": 1610029227,
+                    "rssi": 18,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54401084885415,
+                        "lng": -0.20682043318680599,
+                        "unc": 23.759163811987612,
+                        "x": [
+                            11.884390507039472
+                        ],
+                        "y": [
+                            19.545466676189065
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:02Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "34:7e:5c:31:a1:a3",
+                    "seenEpoch": 1610029262,
+                    "rssi": 68,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404771915343,
+                        "lng": -0.20685301157394065,
+                        "unc": 47.87353806277371,
+                        "x": [
+                            12.469035133357023
+                        ],
+                        "y": [
+                            24.184181601771378
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:56Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:90:ac:92",
+                    "seenEpoch": 1610029256,
+                    "rssi": 22,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54407791432262,
+                        "lng": -0.206889345620624,
+                        "unc": 44.34081943540256,
+                        "x": [
+                            12.407857588371874
+                        ],
+                        "y": [
+                            28.375014150447683
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:56Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:91:6d:7e",
+                    "seenEpoch": 1610029256,
+                    "rssi": 19,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544062892042184,
+                        "lng": -0.20683381132693057,
+                        "unc": 18.159135028682243,
+                        "x": [
+                            14.533471813844333
+                        ],
+                        "y": [
+                            24.769320869421062
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:27Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "34:7e:5c:99:31:b9",
+                    "seenEpoch": 1610029227,
+                    "rssi": 27,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": "/172.17.2.252",
+                    "location": {
+                        "lat": 51.544011481884965,
+                        "lng": -0.2068212727317018,
+                        "unc": 25.728886216890842,
+                        "x": [
+                            11.878755434612074
+                        ],
+                        "y": [
+                            19.63648511709766
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:22Z",
+                    "ssid": "43A",
+                    "os": "OEMed wireless router",
+                    "clientMac": "c8:ff:77:70:97:30",
+                    "seenEpoch": 1610029222,
+                    "rssi": 61,
+                    "ipv6": null,
+                    "manufacturer": "Dyson"
+                },
+                {
+                    "ipv4": "/172.17.0.8",
+                    "location": {
+                        "lat": 51.544047019253156,
+                        "lng": -0.20685411719878743,
+                        "unc": 45.9484619754577,
+                        "x": [
+                            12.36150339264155
+                        ],
+                        "y": [
+                            24.16611967054874
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:56Z",
+                    "ssid": "43A",
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:b9:ce:12",
+                    "seenEpoch": 1610029256,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544046461826944,
+                        "lng": -0.2068528081350678,
+                        "unc": 31.472259248445592,
+                        "x": [
+                            12.398336105887463
+                        ],
+                        "y": [
+                            24.062839355511606
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:00Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:90:ac:93",
+                    "seenEpoch": 1610029260,
+                    "rssi": 22,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411987774654,
+                        "lng": -0.20695228984840242,
+                        "unc": 23.960643657580967,
+                        "x": [
+                            11.626491193830375
+                        ],
+                        "y": [
+                            34.70460398392314
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:02Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b6:81:cf",
+                    "seenEpoch": 1610029262,
+                    "rssi": 13,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404389778986,
+                        "lng": -0.20685122241167164,
+                        "unc": 21.42640642980614,
+                        "x": [
+                            12.319652085523913
+                        ],
+                        "y": [
+                            23.767854097847852
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:46Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:fe:29:b0",
+                    "seenEpoch": 1610029186,
+                    "rssi": 19,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404629280693,
+                        "lng": -0.20685381676582892,
+                        "unc": 38.624148001908345,
+                        "x": [
+                            12.330885498153414
+                        ],
+                        "y": [
+                            24.08858657996297
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:56Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:91:6d:7f",
+                    "seenEpoch": 1610029256,
+                    "rssi": 20,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54400893978986,
+                        "lng": -0.2068191021680832,
+                        "unc": 49,
+                        "x": [
+                            11.834216374964834
+                        ],
+                        "y": [
+                            19.319729751392245
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:30Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "48:e1:e9:2a:9e:7d",
+                    "seenEpoch": 1610029230,
+                    "rssi": 4,
+                    "ipv6": null,
+                    "manufacturer": "Chengdu Meross Technology"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544037931104626,
+                        "lng": -0.20684574007907486,
+                        "unc": 47.61959093993176,
+                        "x": [
+                            12.236797170946083
+                        ],
+                        "y": [
+                            23.00864138956672
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:55Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "98:9e:63:31:43:28",
+                    "seenEpoch": 1610029255,
+                    "rssi": 32,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5440453548057,
+                        "lng": -0.206853155401177,
+                        "unc": 42.979451524412006,
+                        "x": [
+                            12.30664573802265
+                        ],
+                        "y": [
+                            23.977373162931155
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:42Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "b8:31:b5:86:f7:78",
+                    "seenEpoch": 1610029182,
+                    "rssi": 8,
+                    "ipv6": null,
+                    "manufacturer": "Microsoft"
+                },
+                {
+                    "ipv4": "/172.17.0.9",
+                    "location": {
+                        "lat": 51.54406685129146,
+                        "lng": -0.2068783299143604,
+                        "unc": 43.37543588975426,
+                        "x": [
+                            12.301818419194332
+                        ],
+                        "y": [
+                            26.932794188235402
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:01Z",
+                    "ssid": "43A",
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "34:7e:5c:31:a1:a2",
+                    "seenEpoch": 1610029261,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                }
+            ]
+        },
+        "__v": 0
+    },
+    {
+        "_id": "5ff718cfadc0cc7754b76f72",
+        "data": {
+            "apMac": "e0:55:3d:c1:87:32",
+            "apFloors": [
+                "43A Cavendish Road"
+            ],
+            "apTags": [
+                "",
+                "Broadcast",
+                ""
+            ],
+            "observations": [
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544053561484255,
+                        "lng": -0.20676344633102417,
+                        "unc": 49,
+                        "x": [
+                            17.860185416218346
+                        ],
+                        "y": [
+                            21.073434512656792
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:20Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "a4:2d:ac:c5:eb:fb",
+                    "seenEpoch": 1610029220,
+                    "rssi": 8,
+                    "ipv6": null,
+                    "manufacturer": null
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544011547152806,
+                        "lng": -0.2068211830396649,
+                        "unc": 27.9219372286503,
+                        "x": [
+                            11.888032972030578
+                        ],
+                        "y": [
+                            19.638713906335838
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:23Z",
+                    "ssid": null,
+                    "os": "OEMed wireless router",
+                    "clientMac": "c8:ff:77:70:97:30",
+                    "seenEpoch": 1610029223,
+                    "rssi": 16,
+                    "ipv6": null,
+                    "manufacturer": "Dyson"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544045357565814,
+                        "lng": -0.20685312522971344,
+                        "unc": 42.97771664648853,
+                        "x": [
+                            12.30851353605204
+                        ],
+                        "y": [
+                            23.976396493873942
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:43Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "b8:31:b5:86:f7:78",
+                    "seenEpoch": 1610029183,
+                    "rssi": 12,
+                    "ipv6": null,
+                    "manufacturer": "Microsoft"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54412028762248,
+                        "lng": -0.20695339598674423,
+                        "unc": 25.21539120626301,
+                        "x": [
+                            11.591376880160148
+                        ],
+                        "y": [
+                            34.78637530614677
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:03Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b6:81:cf",
+                    "seenEpoch": 1610029263,
+                    "rssi": 19,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54405677304316,
+                        "lng": -0.20682206700791994,
+                        "unc": 41.96518883017869,
+                        "x": [
+                            14.79093326714965
+                        ],
+                        "y": [
+                            23.74218281437475
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:39Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "e8:6f:38:76:59:d3",
+                    "seenEpoch": 1610029239,
+                    "rssi": 13,
+                    "ipv6": null,
+                    "manufacturer": "CHONGQING FUGUI..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544053561484255,
+                        "lng": -0.20676344633102417,
+                        "unc": 49,
+                        "x": [
+                            17.860185416218346
+                        ],
+                        "y": [
+                            21.073434512656792
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:30Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "88:e9:fe:57:68:65",
+                    "seenEpoch": 1610029230,
+                    "rssi": 20,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544053561484255,
+                        "lng": -0.20676344633102417,
+                        "unc": 49,
+                        "x": [
+                            17.860185416218346
+                        ],
+                        "y": [
+                            21.073434512656792
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:45Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "28:24:ff:5c:d3:33",
+                    "seenEpoch": 1610029245,
+                    "rssi": 3,
+                    "ipv6": null,
+                    "manufacturer": "Wistron Neweb"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544053561484255,
+                        "lng": -0.20676344633102417,
+                        "unc": 49,
+                        "x": [
+                            17.860185416218346
+                        ],
+                        "y": [
+                            21.073434512656792
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:23Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "a0:99:9b:05:5f:8b",
+                    "seenEpoch": 1610029163,
+                    "rssi": 6,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404390543817,
+                        "lng": -0.20685115294148204,
+                        "unc": 22.09768177976775,
+                        "x": [
+                            12.324037128694942
+                        ],
+                        "y": [
+                            23.765721605314084
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:46Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:fe:29:b0",
+                    "seenEpoch": 1610029186,
+                    "rssi": 15,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54400770935198,
+                        "lng": -0.20681960033630276,
+                        "unc": 21.15685836328009,
+                        "x": [
+                            11.726028780248173
+                        ],
+                        "y": [
+                            19.22928994105571
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:03Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b9:ce:13",
+                    "seenEpoch": 1610029263,
+                    "rssi": 27,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544053561484255,
+                        "lng": -0.20676344633102417,
+                        "unc": 49,
+                        "x": [
+                            17.860185416218346
+                        ],
+                        "y": [
+                            21.073434512656792
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:43Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "c0:f5:96:7b:31:5b",
+                    "seenEpoch": 1610029243,
+                    "rssi": 12,
+                    "ipv6": null,
+                    "manufacturer": null
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544053561484255,
+                        "lng": -0.20676344633102417,
+                        "unc": 49,
+                        "x": [
+                            17.860185416218346
+                        ],
+                        "y": [
+                            21.073434512656792
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:43Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "d8:0d:17:01:81:c9",
+                    "seenEpoch": 1610029183,
+                    "rssi": 3,
+                    "ipv6": null,
+                    "manufacturer": "TP-LINK Technologies"
+                },
+                {
+                    "ipv4": "/172.17.0.10",
+                    "location": {
+                        "lat": 51.54406008860788,
+                        "lng": -0.20684413191858653,
+                        "unc": 22.322803086134957,
+                        "x": [
+                            13.773189353527552
+                        ],
+                        "y": [
+                            24.93618124848966
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:57Z",
+                    "ssid": "43A",
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "34:7e:5c:99:31:b9",
+                    "seenEpoch": 1610029257,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54401099393347,
+                        "lng": -0.2068202396231129,
+                        "unc": 24.89853244224613,
+                        "x": [
+                            11.904688116091544
+                        ],
+                        "y": [
+                            19.55065662879941
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:03Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "34:7e:5c:31:a1:a3",
+                    "seenEpoch": 1610029263,
+                    "rssi": 22,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411807542504,
+                        "lng": -0.20694658306800306,
+                        "unc": 35.35614321467197,
+                        "x": [
+                            11.828040099372938
+                        ],
+                        "y": [
+                            34.31081868490731
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:43Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "64:80:99:d5:c8:c5",
+                    "seenEpoch": 1610029183,
+                    "rssi": 20,
+                    "ipv6": null,
+                    "manufacturer": "Intel"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544053561484255,
+                        "lng": -0.20676344633102417,
+                        "unc": 49,
+                        "x": [
+                            17.860185416218346
+                        ],
+                        "y": [
+                            21.073434512656792
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:02Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "24:57:65:87:6f:33",
+                    "seenEpoch": 1610029262,
+                    "rssi": 20,
+                    "ipv6": null,
+                    "manufacturer": null
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544055540594584,
+                        "lng": -0.20685266750800224,
+                        "unc": 36.19068780045381,
+                        "x": [
+                            12.998863574961959
+                        ],
+                        "y": [
+                            24.873667396974717
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:28Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:8b:48:b2",
+                    "seenEpoch": 1610029228,
+                    "rssi": 15,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                }
+            ]
+        },
+        "__v": 0
+    },
+    {
+        "_id": "5ff718d1adc0cc7754b76f73",
+        "data": {
+            "apMac": "68:3a:1e:ff:f8:70",
+            "apFloors": [
+                "43A Cavendish Road"
+            ],
+            "apTags": [
+                "",
+                "Broadcast",
+                "recently-added",
+                "wifi6",
+                ""
+            ],
+            "observations": [
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404789801087,
+                        "lng": -0.20685272213231087,
+                        "unc": 41.328015985823406,
+                        "x": [
+                            12.496900635260888
+                        ],
+                        "y": [
+                            24.18851704485656
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:02Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "f8:ff:c2:04:fb:84",
+                    "seenEpoch": 1610029262,
+                    "rssi": 10,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": "/172.17.0.4",
+                    "location": {
+                        "lat": 51.544037931104626,
+                        "lng": -0.20684574007907486,
+                        "unc": 47.623435638110955,
+                        "x": [
+                            12.236797170946083
+                        ],
+                        "y": [
+                            23.00864138956672
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:38Z",
+                    "ssid": "43A",
+                    "os": null,
+                    "clientMac": "98:9e:63:31:43:28",
+                    "seenEpoch": 1610029178,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54405674757629,
+                        "lng": -0.20686638933491963,
+                        "unc": 43.72804367522775,
+                        "x": [
+                            12.310135432567401
+                        ],
+                        "y": [
+                            25.539306024811992
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:26Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "34:7e:5c:31:a1:a2",
+                    "seenEpoch": 1610029166,
+                    "rssi": 41,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5440439067575,
+                        "lng": -0.2068511557191357,
+                        "unc": 21.9046766689337,
+                        "x": [
+                            12.323967888491472
+                        ],
+                        "y": [
+                            23.76595303287855
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:47Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:fe:29:b0",
+                    "seenEpoch": 1610029187,
+                    "rssi": 34,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5441174488738,
+                        "lng": -0.20694901244544894,
+                        "unc": 22.976289709068652,
+                        "x": [
+                            11.651253494756709
+                        ],
+                        "y": [
+                            34.35309588999445
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:01Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b6:81:cf",
+                    "seenEpoch": 1610029261,
+                    "rssi": 40,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": "/172.17.0.15",
+                    "location": {
+                        "lat": 51.54404771915343,
+                        "lng": -0.20685301157394065,
+                        "unc": 47.879404367840785,
+                        "x": [
+                            12.469035133357023
+                        ],
+                        "y": [
+                            24.184181601771378
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:14Z",
+                    "ssid": "43A",
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:90:ac:92",
+                    "seenEpoch": 1610029214,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544089019453786,
+                        "lng": -0.2069092191678692,
+                        "unc": 33.777015542453825,
+                        "x": [
+                            12.021188504342911
+                        ],
+                        "y": [
+                            30.180634349865613
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:43Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "64:80:99:d5:c8:c5",
+                    "seenEpoch": 1610029183,
+                    "rssi": 39,
+                    "ipv6": null,
+                    "manufacturer": "Intel"
+                },
+                {
+                    "ipv4": "/172.17.3.51",
+                    "location": {
+                        "lat": 51.54404535405493,
+                        "lng": -0.2068531205830766,
+                        "unc": 43.04643375720617,
+                        "x": [
+                            12.308544251745513
+                        ],
+                        "y": [
+                            23.975892081882577
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:04Z",
+                    "ssid": "43A",
+                    "os": null,
+                    "clientMac": "b8:31:b5:86:f7:78",
+                    "seenEpoch": 1610029264,
+                    "rssi": 19,
+                    "ipv6": null,
+                    "manufacturer": "Microsoft"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404453411911,
+                        "lng": -0.20684612147948656,
+                        "unc": 37.264336117684756,
+                        "x": [
+                            12.64650836282212
+                        ],
+                        "y": [
+                            23.617995584362454
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:44Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "c0:f5:96:7b:31:5b",
+                    "seenEpoch": 1610029244,
+                    "rssi": 24,
+                    "ipv6": null,
+                    "manufacturer": null
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54405593662193,
+                        "lng": -0.2068475512853638,
+                        "unc": 22.279229481380426,
+                        "x": [
+                            13.310888213188171
+                        ],
+                        "y": [
+                            24.701575550936358
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:28Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "34:7e:5c:99:31:b9",
+                    "seenEpoch": 1610029228,
+                    "rssi": 50,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544045604622134,
+                        "lng": -0.2068528050099303,
+                        "unc": 45.07784018110359,
+                        "x": [
+                            12.342552611040208
+                        ],
+                        "y": [
+                            23.98561614906263
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:28Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:b9:ce:12",
+                    "seenEpoch": 1610029228,
+                    "rssi": 40,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": "/172.17.0.6",
+                    "location": {
+                        "lat": 51.54407791432262,
+                        "lng": -0.206889345620624,
+                        "unc": 44.34160394758934,
+                        "x": [
+                            12.407857588371874
+                        ],
+                        "y": [
+                            28.375014150447683
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:51Z",
+                    "ssid": "43A",
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:91:6d:7e",
+                    "seenEpoch": 1610029251,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54410909440474,
+                        "lng": -0.20688203602523458,
+                        "unc": 9.65142874185874,
+                        "x": [
+                            14.852148759244677
+                        ],
+                        "y": [
+                            30.882568811366614
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:55Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "48:a6:b8:d6:53:35",
+                    "seenEpoch": 1610029255,
+                    "rssi": 26,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544053673420336,
+                        "lng": -0.20682914153729826,
+                        "unc": 42.93600866283656,
+                        "x": [
+                            14.192881635079896
+                        ],
+                        "y": [
+                            23.750619432479922
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:40Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "e8:6f:38:76:59:d3",
+                    "seenEpoch": 1610029240,
+                    "rssi": 12,
+                    "ipv6": null,
+                    "manufacturer": "CHONGQING FUGUI..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404570945077,
+                        "lng": -0.20685247077986446,
+                        "unc": 28.733766823241613,
+                        "x": [
+                            12.368090722716875
+                        ],
+                        "y": [
+                            23.98147516300398
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:04Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:90:ac:93",
+                    "seenEpoch": 1610029264,
+                    "rssi": 56,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404518785397,
+                        "lng": -0.20685261420769052,
+                        "unc": 36.09564626270892,
+                        "x": [
+                            12.326018378071755
+                        ],
+                        "y": [
+                            23.940386088167422
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:04Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:91:6d:7f",
+                    "seenEpoch": 1610029264,
+                    "rssi": 52,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54401229186638,
+                        "lng": -0.20682146171245108,
+                        "unc": 23.711451561630476,
+                        "x": [
+                            11.921060496988837
+                        ],
+                        "y": [
+                            19.717006520879934
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:04Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "34:7e:5c:31:a1:a3",
+                    "seenEpoch": 1610029264,
+                    "rssi": 41,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411099086813,
+                        "lng": -0.20694157904904387,
+                        "unc": 31.579445638772757,
+                        "x": [
+                            11.645456458435023
+                        ],
+                        "y": [
+                            33.4704842194358
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:58Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "48:a6:b8:d6:53:34",
+                    "seenEpoch": 1610029258,
+                    "rssi": 22,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54400808007472,
+                        "lng": -0.20681950448732778,
+                        "unc": 20.092932936359052,
+                        "x": [
+                            11.755590785187557
+                        ],
+                        "y": [
+                            19.25874114353445
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:54Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b9:ce:13",
+                    "seenEpoch": 1610029254,
+                    "rssi": 40,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54401154899512,
+                        "lng": -0.20682118475033917,
+                        "unc": 29.858735463780544,
+                        "x": [
+                            11.888057553129315
+                        ],
+                        "y": [
+                            19.638949053410286
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:26Z",
+                    "ssid": null,
+                    "os": "OEMed wireless router",
+                    "clientMac": "c8:ff:77:70:97:30",
+                    "seenEpoch": 1610029226,
+                    "rssi": 7,
+                    "ipv6": null,
+                    "manufacturer": "Dyson"
+                },
+                {
+                    "ipv4": "/172.17.2.129",
+                    "location": {
+                        "lat": 51.544121119480344,
+                        "lng": -0.206955224275589,
+                        "unc": 43.766092696345915,
+                        "x": [
+                            11.543416595349216
+                        ],
+                        "y": [
+                            34.935417476607974
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:28Z",
+                    "ssid": "43A",
+                    "os": null,
+                    "clientMac": "8c:b8:4a:72:3a:3d",
+                    "seenEpoch": 1610029228,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Samsung(THAILAND)"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54405074940211,
+                        "lng": -0.20685209656102188,
+                        "unc": 34.16577496110048,
+                        "x": [
+                            12.71803019604275
+                        ],
+                        "y": [
+                            24.419571778998662
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:28Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:8b:48:b2",
+                    "seenEpoch": 1610029228,
+                    "rssi": 43,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                }
+            ]
+        },
+        "__v": 0
+    },
+    {
+        "_id": "5ff718d3adc0cc7754b76f74",
+        "data": {
+            "apMac": "e0:cb:bc:b4:f3:7e",
+            "apFloors": [
+                "43A Cavendish Road"
+            ],
+            "apTags": [
+                "",
+                "Broadcast",
+                "Test",
+                ""
+            ],
+            "observations": [
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411195712241,
+                        "lng": -0.20691404005935965,
+                        "unc": 23.080519590873863,
+                        "x": [
+                            13.248905762070516
+                        ],
+                        "y": [
+                            32.439350624102865
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:05Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "80:91:33:b0:a2:21",
+                    "seenEpoch": 1610029265,
+                    "rssi": 27,
+                    "ipv6": null,
+                    "manufacturer": "AzureWave Technology"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544055914177676,
+                        "lng": -0.20683113163508438,
+                        "unc": 43.02204982476248,
+                        "x": [
+                            14.227843595012097
+                        ],
+                        "y": [
+                            24.032946098724118
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:40Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "e8:6f:38:76:59:d3",
+                    "seenEpoch": 1610029240,
+                    "rssi": 8,
+                    "ipv6": null,
+                    "manufacturer": "CHONGQING FUGUI..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404549904953,
+                        "lng": -0.2068527230085806,
+                        "unc": 36.86770225488924,
+                        "x": [
+                            12.340247518161524
+                        ],
+                        "y": [
+                            23.972791911492756
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:45Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:91:6d:7f",
+                    "seenEpoch": 1610029245,
+                    "rssi": 17,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54404576705491,
+                        "lng": -0.20685326175265573,
+                        "unc": 42.81329773273439,
+                        "x": [
+                            12.327608662489572
+                        ],
+                        "y": [
+                            24.018768230588872
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:45Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "b8:31:b5:86:f7:78",
+                    "seenEpoch": 1610029185,
+                    "rssi": 26,
+                    "ipv6": null,
+                    "manufacturer": "Microsoft"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54408834099697,
+                        "lng": -0.20686748072097316,
+                        "unc": 26.51740338204467,
+                        "x": [
+                            14.311506876710817
+                        ],
+                        "y": [
+                            28.425102081771755
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:21Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:b6:81:ce",
+                    "seenEpoch": 1610029161,
+                    "rssi": 44,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411273379395,
+                        "lng": -0.20691753114854805,
+                        "unc": 45.97363118831079,
+                        "x": [
+                            13.104335454857623
+                        ],
+                        "y": [
+                            32.650936343044535
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:48Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "94:b0:1f:80:91:83",
+                    "seenEpoch": 1610029188,
+                    "rssi": 9,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54410590595247,
+                        "lng": -0.20688684043528838,
+                        "unc": 20.441504379324844,
+                        "x": [
+                            14.37527572728981
+                        ],
+                        "y": [
+                            30.790853062466233
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:45Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "48:5f:99:75:be:33",
+                    "seenEpoch": 1610029245,
+                    "rssi": 27,
+                    "ipv6": null,
+                    "manufacturer": "Cloud Network Technology..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544047340407545,
+                        "lng": -0.20685305031059897,
+                        "unc": 27.255966364584264,
+                        "x": [
+                            12.442143911102844
+                        ],
+                        "y": [
+                            24.151690137182072
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:02Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:90:ac:93",
+                    "seenEpoch": 1610029262,
+                    "rssi": 28,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411882093828,
+                        "lng": -0.20694489247520664,
+                        "unc": 46.02883948646676,
+                        "x": [
+                            11.971269186126367
+                        ],
+                        "y": [
+                            34.309234272490286
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:34Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "8c:85:90:28:a8:34",
+                    "seenEpoch": 1610029174,
+                    "rssi": 8,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54401243110933,
+                        "lng": -0.20682188571453253,
+                        "unc": 31.38469736036307,
+                        "x": [
+                            11.906434040231128
+                        ],
+                        "y": [
+                            19.74674371111432
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:23Z",
+                    "ssid": null,
+                    "os": "OEMed wireless router",
+                    "clientMac": "c8:ff:77:70:97:30",
+                    "seenEpoch": 1610029223,
+                    "rssi": 11,
+                    "ipv6": null,
+                    "manufacturer": "Dyson"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54410685544867,
+                        "lng": -0.20687854981491682,
+                        "unc": 9.113848520688716,
+                        "x": [
+                            14.900988292749208
+                        ],
+                        "y": [
+                            30.539664438251194
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:07Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "48:a6:b8:d6:53:35",
+                    "seenEpoch": 1610029267,
+                    "rssi": 57,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.5441163864244,
+                        "lng": -0.20694487928921035,
+                        "unc": 21.982093788996945,
+                        "x": [
+                            11.813081762267746
+                        ],
+                        "y": [
+                            34.08974066602631
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:02Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b6:81:cf",
+                    "seenEpoch": 1610029262,
+                    "rssi": 44,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544050939026604,
+                        "lng": -0.20685416583418714,
+                        "unc": 47.34487455503743,
+                        "x": [
+                            12.61466566866746
+                        ],
+                        "y": [
+                            24.52063554975601
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:58Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:90:ac:92",
+                    "seenEpoch": 1610029258,
+                    "rssi": 27,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544043924717684,
+                        "lng": -0.20685116230677636,
+                        "unc": 22.506962508663705,
+                        "x": [
+                            12.324771853898806
+                        ],
+                        "y": [
+                            23.76783580506908
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:46Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:fe:29:b0",
+                    "seenEpoch": 1610029186,
+                    "rssi": 12,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54400642297797,
+                        "lng": -0.20682071796329637,
+                        "unc": 23.290597348277352,
+                        "x": [
+                            11.579540726021477
+                        ],
+                        "y": [
+                            19.158968287986887
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:05Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "78:28:ca:b9:ce:13",
+                    "seenEpoch": 1610029265,
+                    "rssi": 16,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54409429970307,
+                        "lng": -0.20685393171385158,
+                        "unc": 44.4423153435989,
+                        "x": [
+                            15.458344300469095
+                        ],
+                        "y": [
+                            28.410956017264922
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:23Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "a0:99:9b:05:5f:8b",
+                    "seenEpoch": 1610029163,
+                    "rssi": 9,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": "/172.17.4.247",
+                    "location": {
+                        "lat": 51.54410397553542,
+                        "lng": -0.2069321280204406,
+                        "unc": 35.146852586491626,
+                        "x": [
+                            11.71613184392939
+                        ],
+                        "y": [
+                            32.455834437324384
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:58Z",
+                    "ssid": "43A",
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "48:a6:b8:d6:53:34",
+                    "seenEpoch": 1610029258,
+                    "rssi": 0,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544014127257725,
+                        "lng": -0.20682271338705505,
+                        "unc": 26.76907650739599,
+                        "x": [
+                            11.970863314577986
+                        ],
+                        "y": [
+                            19.93289611779951
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:55Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "34:7e:5c:31:a1:a3",
+                    "seenEpoch": 1610029255,
+                    "rssi": 20,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54408668227115,
+                        "lng": -0.20686539106384316,
+                        "unc": 28.704996597374578,
+                        "x": [
+                            14.320108687396548
+                        ],
+                        "y": [
+                            28.19108092974794
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:44Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "c0:f5:96:7b:31:5b",
+                    "seenEpoch": 1610029244,
+                    "rssi": 31,
+                    "ipv6": null,
+                    "manufacturer": null
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54405598284909,
+                        "lng": -0.20685417398286177,
+                        "unc": 32.44003414077549,
+                        "x": [
+                            12.943470416347862
+                        ],
+                        "y": [
+                            24.9746038265577
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:29Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "00:f6:20:8b:48:b2",
+                    "seenEpoch": 1610029229,
+                    "rssi": 31,
+                    "ipv6": null,
+                    "manufacturer": "Google"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54408245339738,
+                        "lng": -0.206886314357007,
+                        "unc": 44.07713340578907,
+                        "x": [
+                            12.873719618845183
+                        ],
+                        "y": [
+                            28.660190664137307
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:45Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:91:6d:7e",
+                    "seenEpoch": 1610029245,
+                    "rssi": 17,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54411152533318,
+                        "lng": -0.20691209919419862,
+                        "unc": 45.97310287206517,
+                        "x": [
+                            13.32927938146146
+                        ],
+                        "y": [
+                            32.32171990005382
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:20Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "24:f6:77:03:d2:1e",
+                    "seenEpoch": 1610029220,
+                    "rssi": 11,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544046092619595,
+                        "lng": -0.20685297523976942,
+                        "unc": 44.937873600856044,
+                        "x": [
+                            12.364887391058497
+                        ],
+                        "y": [
+                            24.03641731137982
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:19:34Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "78:28:ca:b9:ce:12",
+                    "seenEpoch": 1610029174,
+                    "rssi": 16,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54405010886294,
+                        "lng": -0.20685352892377296,
+                        "unc": 41.5194907932723,
+                        "x": [
+                            12.596097712042054
+                        ],
+                        "y": [
+                            24.420113761576083
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:02Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "f8:ff:c2:04:fb:84",
+                    "seenEpoch": 1610029262,
+                    "rssi": 18,
+                    "ipv6": null,
+                    "manufacturer": "Apple"
+                },
+                {
+                    "ipv4": "/172.17.2.128",
+                    "location": {
+                        "lat": 51.54410301818941,
+                        "lng": -0.20688942277945443,
+                        "unc": 27.55527816939442,
+                        "x": [
+                            14.042321226051943
+                        ],
+                        "y": [
+                            30.635968840605635
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:05Z",
+                    "ssid": "43A",
+                    "os": null,
+                    "clientMac": "64:80:99:d5:c8:c5",
+                    "seenEpoch": 1610029265,
+                    "rssi": 52,
+                    "ipv6": null,
+                    "manufacturer": "Intel"
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.54410284938647,
+                        "lng": -0.2068731013654883,
+                        "unc": 47.05838002434185,
+                        "x": [
+                            14.944227545604107
+                        ],
+                        "y": [
+                            29.95816423539782
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:21:05Z",
+                    "ssid": null,
+                    "os": null,
+                    "clientMac": "28:3a:4d:60:fc:49",
+                    "seenEpoch": 1610029265,
+                    "rssi": 11,
+                    "ipv6": null,
+                    "manufacturer": "Cloud Network Technology..."
+                },
+                {
+                    "ipv4": null,
+                    "location": {
+                        "lat": 51.544057762305926,
+                        "lng": -0.20684842295207773,
+                        "unc": 21.098818918408465,
+                        "x": [
+                            13.3813127851727
+                        ],
+                        "y": [
+                            24.90116438021102
+                        ]
+                    },
+                    "seenTime": "2021-01-07T14:20:29Z",
+                    "ssid": null,
+                    "os": "Cisco/Linksys Router",
+                    "clientMac": "34:7e:5c:99:31:b9",
+                    "seenEpoch": 1610029229,
+                    "rssi": 40,
+                    "ipv6": null,
+                    "manufacturer": "Sonos"
+                }
+            ]
+        },
+        "__v": 0
+    }
+]
