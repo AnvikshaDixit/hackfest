@@ -1,8 +1,10 @@
 from flask import Flask, render_template
+from PlotterScript import plotter
 app = Flask(__name__)
 
 @app.route('/')
 def landing_page():
+    plotter()
     return render_template('index.html')
 
 @app.route('/zone')
