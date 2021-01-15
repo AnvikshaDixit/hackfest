@@ -1,5 +1,4 @@
 from flask import Flask, render_template
-from PlotterScript import plotter
 from flask_apscheduler import APScheduler
 import json
 import math
